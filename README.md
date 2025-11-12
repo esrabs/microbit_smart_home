@@ -1,23 +1,23 @@
-# 🏠 Smart Home Micro:bit – Maison Connectée Intelligente
+# Smart Home Micro:bit – Maison Connectée Intelligente
 
-## 🎯 Description
+## Description
 Ce projet a été réalisé dans le cadre du **Projet S3 – Parcours GI/GEE/Info**. Il s'agit d'une **maison connectée intelligente** basée sur une carte **BBC Micro:bit**, capable de surveiller différents paramètres environnementaux et d’agir automatiquement via des servomoteurs, des LEDs et un système d’alarme.
 
 Le programme est développé en **MicroPython** et gère une interface de navigation hiérarchique permettant d’interagir avec les capteurs et actionneurs.
 
 ---
 
-## 🚀 Fonctionnalités principales
+## Fonctionnalités principales
 - 📡 Lecture et affichage de plusieurs capteurs :
   - Détection de pluie
   - Capteur de gaz
   - Température ambiante
   - Luminosité ambiante
-- ⚙️ Contrôle automatique :
+-  Contrôle automatique :
   - Aération (servo-moteurs pour porte et fenêtre)
   - Alarme sonore et visuelle
   - Éclairage RGB via NeoPixel
-- 🧭 Interface interactive :
+-  Interface interactive :
   - Bouton **A** → navigation vers le bas
   - Bouton **B** → navigation vers le haut
   - Appui long **A** → valider un choix
@@ -26,7 +26,7 @@ Le programme est développé en **MicroPython** et gère une interface de naviga
 
 ---
 
-## 🧩 Matériel utilisé
+## Matériel utilisé
 - 1 × BBC Micro:bit (V2 recommandé)
 - 1 × Module NeoPixel (4 LEDs RGB)
 - 2 × Servomoteurs (porte et fenêtre)
@@ -37,18 +37,17 @@ Le programme est développé en **MicroPython** et gère une interface de naviga
 
 ---
 
-## ⚙️ Installation
+## Installation
 1. **Télécharge le code :**
    ```bash
-   git clone https://github.com/<ton-utilisateur>/smart-home-microbit.git
+   git clone https://github.com/<esrabs>/microbit_smar_home.git
    ```
 2. Ouvre le fichier **`smart_home_microbit.py`** dans [Mu Editor](https://codewith.mu/) ou sur [python.microbit.org](https://python.microbit.org/).
 3. **Renomme** le fichier en `main.py` avant de le transférer sur la carte Micro:bit.
 4. Branche la carte et observe le fonctionnement !
-
 ---
 
-## 💡 Utilisation
+## Utilisation
 Une fois le programme lancé :
 - Le menu principal s’affiche sur la matrice LED.
 - Navigue avec **A** et **B**.
@@ -69,9 +68,6 @@ Projet réalisé par **Esrae Ben Selma**
 Encadré par les enseignants du département **Électronique, Automatique et Informatique Industrielle – EILCO**.
 
 
----
 
-## 🏷️ Badges (optionnel)
-![MicroPython](https://img.shields.io/badge/MicroPython-2E5C94?style=for-the-badge&logo=python&logoColor=white)
-![Micro:bit](https://img.shields.io/badge/BBC%20Micro:bit-00ED00?style=for-the-badge&logo=bbc&logoColor=white)
-![License MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+
