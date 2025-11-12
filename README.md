@@ -9,20 +9,20 @@ Le programme est développé en **MicroPython** et gère une interface de naviga
 
 ## Fonctionnalités principales
 -   Lecture et affichage de plusieurs capteurs :
-  - Détection de pluie
-  - Capteur de gaz
-  - Température ambiante
-  - Luminosité ambiante
+    - Détection de pluie
+    - Capteur de gaz
+    - Température ambiante
+    - Luminosité ambiante
 -   Contrôle automatique :
-  - Aération (servo-moteurs pour porte et fenêtre)
-  - Alarme sonore et visuelle
-  - Éclairage RGB via NeoPixel
+    - Aération (servo-moteurs pour porte et fenêtre)
+    - Alarme sonore et visuelle
+    - Éclairage RGB via NeoPixel
 -   Interface interactive :
-  - Bouton **A** → navigation vers le bas
-  - Bouton **B** → navigation vers le haut
-  - Appui long **A** → valider un choix
-  - Appui long **B** → revenir en arrière
-  - **Logo tactile** → exécuter l’action sélectionnée
+    - Bouton **A** → navigation vers le bas
+    - Bouton **B** → navigation vers le haut
+    - Appui long **A** → valider un choix
+    - Appui long **B** → revenir en arrière
+    - **Logo tactile** → exécuter l’action sélectionnée
 
 ---
 
