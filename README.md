@@ -61,6 +61,31 @@ Exemples :
 - Menu **Aération** → ouvre/ferme les servos
 
 ---
+## 🛠️ Montage / Assemblage
+Le montage de la **maison connectée** peut suivre le guide officiel **Keyestudio KS4027–KS4028** (bois + acrylique, modules, visserie, câblage). Tu y trouveras :
+- la **liste des pièces** (carte Micro:bit, carte d’extension IO, servos, module RGB 6812, capteurs, visserie…)
+- les **étapes d’assemblage** de la structure (panneaux bois/acrylique)
+- les **connexions** des capteurs/actionneurs vers la carte d’extension
+- un **tutoriel MicroPython** (Mu Editor) pour tester les modules
+
+
+👉 Guide officiel : *KS4027 KS4028 Smart Home Kit for Micro:bit Python Tutorial* (section *Assemble the Smart Home*). citeturn0view0
+
+
+### Schéma de câblage
+- **NeoPixel (6812 RGB)** → `P14`
+- **Servo porte** → `P8`
+- **Servo fenêtre** → `P9`
+- **Pluie** → `P0` (analog)
+- **Gaz (MQ-2)** → `P1` (analog)
+- **Buzzer / alarme** → `P16`
+- **LEDs intégrées / matrice** → écran 5×5 du Micro:bit
+
+
+> ⚠️ Vérifie la **masse commune (GND)** entre tous les modules et respecte l’**alimentation** des servos (souvent 5V) séparée de la carte quand c’est nécessaire.
+
+
+---
 
 
 ## 🧑‍💻 Auteurs
