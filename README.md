@@ -63,34 +63,11 @@ Exemples :
 
 ---
 
-## 🧠 Organisation du code
-```text
-smart_home_microbit.py
-│
-├── Classe Servo           → Gestion des servomoteurs
-├── Menus hiérarchiques    → Navigation par boutons A/B
-├── Fonctions helpers      → LED, alarme, aération
-└── Boucle principale      → Lecture capteurs + interactions
-```
-
----
-
-## 📸 Exemple d’application
-📷 *Maison connectée avec capteurs et servos contrôlés par Micro:bit*
-
-*(Tu peux ajouter ici une image ou un schéma dans un dossier `/assets`)*
-
----
 
 ## 🧑‍💻 Auteurs
-Projet réalisé par **[Ton prénom et ton groupe]**  
+Projet réalisé par **Esrae Ben Selma**  
 Encadré par les enseignants du département **Électronique, Automatique et Informatique Industrielle – EILCO**.
 
----
-
-## 📄 Licence
-Ce projet est distribué sous la licence **MIT**.  
-Tu es libre de le modifier, l’utiliser et le redistribuer.
 
 ---
 
