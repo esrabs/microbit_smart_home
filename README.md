@@ -90,7 +90,7 @@ Le montage de la **maison connectée** peut suivre le guide officiel **Keyestudi
 ## 🎥 Démonstration du projet
 
 > Vous pouvez télécharger la démonstration vidéo ci-dessous :  
-> [▶️ Télécharger la vidéo de démonstration (console.mp4)](https://github.com/esrabs/microbit_smart_home/raw/main/Assets/console.mp4)
+> [ Télécharger la vidéo de démonstration (console.mp4)](https://github.com/esrabs/microbit_smart_home/raw/main/Assets/console.mp4)
 
 ---
 
