@@ -8,7 +8,7 @@ Le programme est développé en **MicroPython** et gère une interface de naviga
 ---
 
 ## Fonctionnalités principales
-- 📡 Lecture et affichage de plusieurs capteurs :
+-  Lecture et affichage de plusieurs capteurs :
   - Détection de pluie
   - Capteur de gaz
   - Température ambiante
